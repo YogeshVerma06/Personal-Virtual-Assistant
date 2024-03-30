@@ -1,0 +1,38 @@
+autopep8==1.5.7
+beautifulsoup4==4.9.3
+certifi==2021.5.30
+chardet==4.0.0
+comtypes==1.1.10
+idna==2.10
+MouseInfo==0.1.3
+Pillow
+PyAudio
+PyAutoGUI==0.9.52
+pycodestyle==2.7.0
+PyGetWindow==0.0.9
+PyMsgBox==1.0.9
+pyperclip==1.8.2
+pypiwin32==223
+PyRect==0.1.4
+PyScreeze==0.1.27
+python-decouple==3.4
+pyttsx3==2.90
+PyTweening==1.0.3
+pywhatkit==4.8
+pywin32==304
+requests==2.25.1
+soupsieve==2.2.1
+SpeechRecognition==3.8.1
+toml==0.10.2
+urllib3==1.26.5
+wikipedia==1.4.0
+
+
+
+# USER=Nitesh
+# BOTNAME=NAJ
+# EMAIL=talyan.akash98@gmail.com
+# PASSWORD=5241593@1998
+# NEWS_API_KEY=07501368fcec4fd89be7a7c840bd1981
+# OPENWEATHER_APP_ID=e50097198a1d74cf5e372d61aad456a3
+# TMDB_API_KEY=f61a8fdeb39c92c37942a6ca5e94c94c
